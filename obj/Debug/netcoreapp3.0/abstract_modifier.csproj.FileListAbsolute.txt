@@ -1,0 +1,11 @@
+C:\Users\Mohamed\source\repos\abstract_modifier\bin\Debug\netcoreapp3.0\abstract_modifier.exe
+C:\Users\Mohamed\source\repos\abstract_modifier\bin\Debug\netcoreapp3.0\abstract_modifier.deps.json
+C:\Users\Mohamed\source\repos\abstract_modifier\bin\Debug\netcoreapp3.0\abstract_modifier.runtimeconfig.json
+C:\Users\Mohamed\source\repos\abstract_modifier\bin\Debug\netcoreapp3.0\abstract_modifier.runtimeconfig.dev.json
+C:\Users\Mohamed\source\repos\abstract_modifier\bin\Debug\netcoreapp3.0\abstract_modifier.dll
+C:\Users\Mohamed\source\repos\abstract_modifier\bin\Debug\netcoreapp3.0\abstract_modifier.pdb
+C:\Users\Mohamed\source\repos\abstract_modifier\obj\Debug\netcoreapp3.0\abstract_modifier.csprojAssemblyReference.cache
+C:\Users\Mohamed\source\repos\abstract_modifier\obj\Debug\netcoreapp3.0\abstract_modifier.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\abstract_modifier\obj\Debug\netcoreapp3.0\abstract_modifier.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\abstract_modifier\obj\Debug\netcoreapp3.0\abstract_modifier.dll
+C:\Users\Mohamed\source\repos\abstract_modifier\obj\Debug\netcoreapp3.0\abstract_modifier.pdb
